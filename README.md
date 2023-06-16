@@ -1,9 +1,3 @@
-## Hi there 👋
-
-I'm strangehoon, backend developer.   
-I'm also interested in server, database
-
----
 
 ## 🛠 Tech Stack 🛠
 ### 📌 Programming Language
@@ -18,8 +12,11 @@ I'm also interested in server, database
 ### 📌 Database
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
-### 📌 Deploy
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
+### 📌 DevOps
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### 📌 Tools
 ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white)
