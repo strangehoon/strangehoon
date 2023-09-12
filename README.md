@@ -36,8 +36,5 @@ Hello, I'm a student interested in Backend and DevOps.😎
 ## Studying :pencil2: 
 ![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/redis-DC382D?style=flat&logo=Redis&logoColor=white)
-![](https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=white)
-![](https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![](https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white)
 
