@@ -41,12 +41,3 @@ Hello, I'm a student interested in Backend and DevOps.😎
 ![](https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![](https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white)
 
-<br/>
-
- 
-## Github Status 📊
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=strangehoon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangehoon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
