@@ -7,8 +7,6 @@
 ## Introduction :raised_hands:
 Hello, I'm a student interested in Backend and DevOps.😎
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstrangehoon&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br/>
  
 <!--기술스택-->
@@ -23,20 +21,19 @@ Hello, I'm a student interested in Backend and DevOps.😎
 <!--DevOps-->
 ![](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white)
 <br/>
 <!--Tools-->
 ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 <br/>
-<!--공부중 -->
 
-## Studying :pencil2: 
-
-![](https://img.shields.io/badge/kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strangehoon2)](https://solved.ac/strangehoon2/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstrangehoon&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
