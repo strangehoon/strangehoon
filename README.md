@@ -1,22 +1,25 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20SangHoon&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-<div align=center>
 <!--소개-->
  
-## Introduction :raised_hands:
-Hello, I'm a student interested in Backend and DevOps.😎
+## 🖐 Introduction 
+* 반도체 엔지니어를 꿈꾸다가 22년 8월 코딩에 입문했고 23년 1월부터 백엔드 개발자로 진로를 전향했습니다. 
+* 문제 해결, 그중에서 최적의 해를 찾아 나가는 과정을 좋아합니다.
+
 
 <br/>
  
 <!--기술스택-->
-## Skills ⚒
+## ⚒ Skills 
 
 <!--언어-->
 
 ###### Language & Framework
+<p>
+ 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/Java-00599C?style=flat&logo=Java&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 <br/>
+
+</p>
 
 <!--데이터베이스-->
 ###### Database
@@ -40,6 +43,7 @@ Hello, I'm a student interested in Backend and DevOps.😎
 
 <br/>
 
+## 💡 Problem Solving
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strangehoon2)](https://solved.ac/strangehoon2/)
