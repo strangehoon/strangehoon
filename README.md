@@ -30,7 +30,7 @@
 
 <!--Tools-->
 ###### Others
-![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white)
 
 <br/>
 
